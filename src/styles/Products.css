@@ -1,0 +1,22 @@
+.products {
+  background: rgb(236, 236, 236);
+}
+.products__bannerImage {
+  width: 98%;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: -150px;
+  z-index: -1;
+}
+.products__categories {
+  width: 200px;
+  border: 1px solid #643E03;
+  background: #351F00;
+  color: #fff;
+  padding: 5px 10px;
+}
+@media screen and (max-width: 530px) {
+  .products__bannerImage {
+    margin-bottom: -60px;
+  }
+}

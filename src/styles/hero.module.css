@@ -1,0 +1,33 @@
+.content {
+  display: flex;
+  align-items: center;
+  margin: 10vh auto;
+}
+.button {
+  border-radius: 20px;
+  background: transparent;
+  color: #351F00;
+  padding: 5px 28px;
+  border: 2px solid #351F00;
+  outline: none;
+}
+.button:hover {
+  color: #fff;
+  background: #351F00;
+}
+.desc {
+  font-size: 14px;
+}
+.tag1 {
+  overflow: hidden;
+  font-size: 24px;
+}
+.tag2{
+  overflow: hidden;
+  font-size: 32px;
+  font-weight: 400;
+}
+.coffee {
+  font-size: 38px;
+  font-weight: 600;
+}

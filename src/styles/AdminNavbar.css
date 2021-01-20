@@ -1,0 +1,8 @@
+.adminNavbar {
+  grid-area: nav;
+  background-color: #351F00;
+  padding: 25px 0 0 60px;
+}
+.adminNavbar__navLink {
+  color: #fff;
+}
